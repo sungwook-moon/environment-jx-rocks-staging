@@ -21,3 +21,7 @@ delete:
 clean:
 
 
+test:
+    ADDRESS= go test -v
+test:
+    ADDRESS= go test -v
